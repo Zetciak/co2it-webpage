@@ -66,10 +66,7 @@ function ContactUs() {
 						Start Your{' '}
 						<span className={`${styles.blueText} blueText`}>
 							Journey Today
-							<div
-								className={styles.bottomTitleLine}
-								style={{ display: 'none' }}
-							>
+							<div className={styles.bottomTitleLine}>
 								<Image
 									src={titleBottomLineWhite}
 									alt=""

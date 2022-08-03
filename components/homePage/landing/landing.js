@@ -29,10 +29,7 @@ function Landing() {
 						Make Your Projects{' '}
 						<span className={`${styles.blueText} blueText`}>
 							Carbon Neutral
-							<div
-								className={styles.bottomTitleLine}
-								style={{ display: 'none' }}
-							>
+							<div className={styles.bottomTitleLine}>
 								<Image
 									src={titleBottomLine}
 									alt=""
@@ -68,10 +65,7 @@ function Landing() {
 							</Button>
 						</Link>
 					</div>
-					<div
-						className={styles.bureauVeritas}
-						style={{ display: 'none' }}
-					>
+					<div className={styles.bureauVeritas}>
 						<div className={styles.bureauVeritasText}>
 							We{' '}
 							<span className={`${styles.blueText} blueText`}>

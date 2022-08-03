@@ -40,12 +40,7 @@ function Partners() {
 
 	// >> Render
 	return (
-		<div
-			className={styles.mainDiv}
-			id="partners"
-			data-aos="fade-up"
-			style={{ display: 'none' }}
-		>
+		<div className={styles.mainDiv} id="partners" data-aos="fade-up">
 			<div className={styles.insideDiv}>
 				<div
 					className={styles.logosDiv}
