@@ -33,7 +33,7 @@ function Privacy() {
 
 				<meta
 					property="og:url"
-					content="https://grini-co2it.vercel.app/"
+					content="https://zetty-co2it.vercel.app/"
 				/>
 				<meta property="og:type" content="website" />
 				<meta property="og:title" content="CO2it - Home Page" />
@@ -49,11 +49,11 @@ function Privacy() {
 				<meta name="twitter:card" content="summary_large_image" />
 				<meta
 					property="twitter:domain"
-					content="grini-co2it.vercel.app"
+					content="zetty-co2it.vercel.app"
 				/>
 				<meta
 					property="twitter:url"
-					content="https://grini-co2it.vercel.app/"
+					content="https://zetty-co2it.vercel.app/"
 				/>
 				<meta name="twitter:title" content="CO2it - Home Page" />
 				<meta
