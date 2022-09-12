@@ -1,6 +1,9 @@
 // >> Modules
 import { makeStyles } from '@mui/styles';
 
+// >> Images
+import bgColor from '../../public/background/bgColorEffect.png';
+
 // >> Styling
 const useStyles = makeStyles({
 	mainDiv: {
@@ -16,7 +19,7 @@ const useStyles = makeStyles({
 		top: '0',
 		width: '100%',
 		height: '7000px',
-		background: 'url(https://i.imgur.com/OR6W8ZQ.png)',
+		background: `url(${bgColor.src})`,
 	},
 
 	circles: {
